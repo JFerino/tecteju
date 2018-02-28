@@ -13,5 +13,6 @@ public class Ola {
     public static void main(String[] args) {
         System.out.println("ola");
         System.out.println("so de teste");
+        System.out.print("kk eae");
     }
 }
