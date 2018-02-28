@@ -12,5 +12,6 @@ package gui;
 public class Ola {
     public static void main(String[] args) {
         System.out.println("ola");
+        System.out.println("so de teste");
     }
 }
