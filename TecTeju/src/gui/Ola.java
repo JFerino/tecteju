@@ -14,5 +14,6 @@ public class Ola {
         System.out.println("ola");
         System.out.println("so de teste");
         System.out.print("kk eae");
+        System.out.print("a");
     }
 }
